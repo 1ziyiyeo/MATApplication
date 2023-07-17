@@ -1,0 +1,50 @@
+.root {
+  position: absolute;
+  left: 24px;
+  top: 177px;
+  width: 227px;
+  height: 65px;
+  align-items: flex-start;
+}
+.rectangle43 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle60 {
+  position: absolute;
+  left: 7.8762%;
+  right: 77.3842%;
+  top: 24.6154%;
+  bottom: 25.018%;
+  background-color: #fff;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup7.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup7.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -1.87890625px 1.1368683772161603e-13px;
+  mask-position: -1.87890625px 1.1368683772161603e-13px;
+  -webkit-mask-size: 37px 34px;
+  mask-size: 37px 34px;
+}
+.exitMAT {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.0749%;
+  right: 7.489%;
+  top: 20%;
+  bottom: 20%;
+  height: min-content;
+  flex-direction: column;
+}

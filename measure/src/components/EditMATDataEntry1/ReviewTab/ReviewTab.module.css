@@ -1,0 +1,57 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 723px;
+  width: 274px;
+  height: 92px;
+  align-items: flex-start;
+}
+.rectangle92 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #39a9e0;
+}
+.review {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 800;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32.8467%;
+  right: 32.8467%;
+  top: 32.6087%;
+  bottom: 32.6605%;
+  flex-direction: column;
+}
+.rectangle69 {
+  position: absolute;
+  left: 14.9635%;
+  right: 72.2628%;
+  top: 31.5217%;
+  bottom: 30.5901%;
+  background-color: #fff;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px 0px;
+  mask-position: 0px 0px;
+  -webkit-mask-size: 35px 34.85714340209961px;
+  mask-size: 35px 34.85714340209961px;
+}
+.ellipse13 {
+  position: absolute;
+  left: 81.3869%;
+  right: 13.1387%;
+  top: 41.3043%;
+  bottom: 42.3913%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  
+}
